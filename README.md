@@ -1,3 +1,7 @@
+# meme-gen
+
+The purpose of this project is to get familiar with React library. You can get a random meme image and put some text on it. This project is part of the [React course](https://www.youtube.com/watch?v=bMknfKXIFA8) from [freeCodeCamp.org](https://www.freecodecamp.org/). The Figma file can be accessed [here](https://www.figma.com/file/MoLwFPHNHJVrzdFurxHzNV).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
